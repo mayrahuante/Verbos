@@ -1,0 +1,26 @@
+#verbs-container{
+    margin: 0 35%;
+}
+
+.verbs-answer{
+    display: block;
+}
+
+.rightAnswer, .rightAnswer:hover{
+    background-color: #6ab04c;
+    border-color: #6ab04c;
+    color: #fff;
+}
+
+.wronAswer, .wronAswer:hover{
+    background-color: #b33030;
+    border-color: #b33030;
+    color: #fff;
+}
+
+#next{
+    margin-top: 10rem;
+    cursor: pointer;
+    color: green;
+}
+
